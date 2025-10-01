@@ -1,0 +1,39 @@
+I want you to build a full python gui about PET ADOPTION & SERVICE MANAGEMENT SYSTEM.
+First is the Produtcts Landing Page the frame dimension is 1440x3141 with a Color of 17120E, First on the top is the header, Home X98 Y38 Poppins, Font (Microsoft JhengHei UI), Adoption X272 Y38 Poppins, Font (Microsoft JhengHei UI), Service X447 Y38 Poppins, Font (Microsoft JhengHei UI), Products X894 Y38 Poppins, Font (Microsoft JhengHei UI), Contact X1069 Y38 Poppins, Font (Microsoft JhengHei UI), Signup/SignIn X272 Y38 Poppins, Font (Microsoft JhengHei UI)
+Below is the Home Content, 1440x857, Then a Label FIND YOUR NEW BEST FRIEND AND GIVE THEM A FOREVER HOME, WHILE WE CARE FOR ALL YOUR PET’S NEEDS Font (Microsoft JhengHei UI) Then a Button which is get started, Then Below is another rectangle 1440x481 then a Label About our Shelter and a "We are devoted to enriching the bond between pets and their owners by offering carefully selected products and services designed with their well-being in mind. From nourishing food and premium accessories to grooming essentials and wellness support, we strive to provide everything your companions need to live happy and healthy lives. We believe pets are more than just animals ,  they are family — and this belief guides our commitment to excellence, compassion, and reliability. 
+
+With OnlyPets, you can trust that every choice you make for your beloved companions is one that prioritizes their happiness, comfort, and care."
+Then below is another rectangle 1444x848 and label on the middle Our friends who 
+are looking for a house, then a rectangle storing the image of the pet, name, a button adotp pet, then on left and right middle of each corner is an arrow to swipe or next to show some other pets,
+but only shows small amount since its only the landing page, then below is another rectangle, 1440x480 You can make a donation Name of Bank / Bank Account number OnlyPets Animal Care Foundation - 1234-5678-9012 Through your support, we aim to extend love and care to animals in need. By making a donation, you help us provide food, shelter, and medical assistance to stray and abandoned pets. Every contribution, big or small, makes a difference — because together, we can create a brighter and safer world for all pets.
+Then Below is the Contact (Make it an actual Contact part like from other official websites)
+if signin/signup is clicked, make it a pop modal, for sign in, fullname and password, forgot password, Sign in, or they can log in facebook, apple, gmail and dont have an account? . For sign up, email, fullname, password, confirm password or they can sign up facebook, apple, gmail, and already have an account
+
+Make a dashboard about (Favorites, Calendar, Hot Picks Products by the users, Bookings, and add more) 
+Adoption Frame 1440x1777 First on the top is the header, Home X98 Y38 Poppins, Font (Microsoft JhengHei UI), Adoption X272 Y38 Poppins, Font (Microsoft JhengHei UI), Service X447 Y38 Poppins, Font (Microsoft JhengHei UI), Products X894 Y38 Poppins, Font (Microsoft JhengHei UI), Contact X1069 Y38 Poppins, Font (Microsoft JhengHei UI) User full name, Below is a FIND YOUR NEW FRIEND font Modern No. 20 size 64 postion X66 y132, Then Below is the Categories, Dogs, Cats, Birds, Fish and Others which is line horizontally to be choose it a big button with a image of the specific type of pet, if one of it is clicked it will then show below, in a 4by4 grid a specific type of pets, with a dimension of 282x406 pet image, pet name, and view details button, if view details is click it will then show the full information of that specific pet that user click in a pop up model way, the pop up model size is 1098x661, a label is on the left Pet details font Modern No. 20 size 64 postion x232 y715 pet image dimension 439x464 position x219y791 on the right side is the name of the pet, then the information Species:
+Breed: 
+Age: 
+Gender: 
+Markings: 
+Neutered/Spayed:
+Dewormed:
+Medical Notes
+then a button Adopt
+
+if adotp is click then show another pop up modal while exiting the last pop up modal 
+the new pop up modal is about Applicant information pop modal size 1098x1348 Thank you for choosing to adopt!  Please fill out this form so we can ensure the best match between you and your future pet. this is putted in the top middle, 
+Applicant Information (Fullname, Complete address, Age, Contact Number, Email Address)
+Care Commitement Who will take care of the pet?
+Can you provide food, vet care, and a safe home? Yes No
+Agreement 
+I understand that adopting a pet is a lifelong responsibility.
+I promise to give love and proper care to my adopted pet.
+then a button (submit) - this will be then displayed and a confirmation like waiting for approval 
+
+In the Service section, users can select from five service types—grooming, health care, daycare, training, and hygienic care—displayed as elegant horizontal buttons. Below this is a Service Booking Form where users can enter their pet’s name, select a service type, choose a date and time, specify a preferred staff member, and add any special instructions. Once submitted, the booking is displayed on a calendar view, allowing users to manage appointments and track their pet’s care schedule.
+
+The Products section offers a curated shopping experience, with items categorized into food, medications, toys, and other essentials. Each product is presented with high-quality images, descriptions, and purchase options. The black-and-gold palette enhances the visual appeal, creating a luxurious and trustworthy shopping environment that reflects the care and quality OnlyPets stands for, it should be able to add to cart, and display in favorites
+
+Then a contact which is about send a message, or get in touch with us
+- Add a lot of data in Products, Pets
+FFFFFF, FEEBD9, 603C1E, 1C130B, 17120E, DEDEDE, 020201, 1B1612, 261E18, 838383, 848484, 978E7D, D7A765, FFB774. D9D9D9, FFF1E5 - possible mix color pallete

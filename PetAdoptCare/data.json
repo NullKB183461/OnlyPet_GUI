@@ -1,0 +1,389 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "name": "Max",
+      "category": "Dogs",
+      "breed": "Golden Retriever",
+      "age": "2 years",
+      "gender": "Male",
+      "markings": "Golden coat with white chest",
+      "neutered": "Yes",
+      "dewormed": "Yes",
+      "medical_notes": "Healthy, vaccinated, loves to play fetch"
+    },
+    {
+      "id": 2,
+      "name": "Luna",
+      "category": "Cats",
+      "breed": "Persian",
+      "age": "1 year",
+      "gender": "Female",
+      "markings": "White with grey patches",
+      "neutered": "Yes",
+      "dewormed": "Yes",
+      "medical_notes": "Healthy, enjoys quiet spaces"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "category": "Dogs",
+      "breed": "Labrador",
+      "age": "3 years",
+      "gender": "Male",
+      "markings": "Black coat",
+      "neutered": "Yes",
+      "dewormed": "Yes",
+      "medical_notes": "Very energetic, great with kids"
+    },
+    {
+      "id": 4,
+      "name": "Bella",
+      "category": "Cats",
+      "breed": "Siamese",
+      "age": "2 years",
+      "gender": "Female",
+      "markings": "Cream with dark points",
+      "neutered": "Yes",
+      "dewormed": "Yes",
+      "medical_notes": "Vocal, loves attention"
+    },
+    {
+      "id": 5,
+      "name": "Rocky",
+      "category": "Dogs",
+      "breed": "German Shepherd",
+      "age": "4 years",
+      "gender": "Male",
+      "markings": "Black and tan",
+      "neutered": "Yes",
+      "dewormed": "Yes",
+      "medical_notes": "Trained, excellent guard dog"
+    },
+    {
+      "id": 6,
+      "name": "Tweety",
+      "category": "Birds",
+      "breed": "Canary",
+      "age": "1 year",
+      "gender": "Male",
+      "markings": "Bright yellow",
+      "neutered": "N/A",
+      "dewormed": "N/A",
+      "medical_notes": "Beautiful singer, healthy"
+    },
+    {
+      "id": 7,
+      "name": "Bubbles",
+      "category": "Fish",
+      "breed": "Goldfish",
+      "age": "6 months",
+      "gender": "Unknown",
+      "markings": "Orange and white",
+      "neutered": "N/A",
+      "dewormed": "N/A",
+      "medical_notes": "Healthy, easy to care for"
+    },
+    {
+      "id": 8,
+      "name": "Daisy",
+      "category": "Dogs",
+      "breed": "Beagle",
+      "age": "1.5 years",
+      "gender": "Female",
+      "markings": "Tri-color",
+      "neutered": "Yes",
+      "dewormed": "Yes",
+      "medical_notes": "Friendly, loves food"
+    },
+    {
+      "id": 9,
+      "name": "Whiskers",
+      "category": "Cats",
+      "breed": "Maine Coon",
+      "age": "3 years",
+      "gender": "Male",
+      "markings": "Brown tabby",
+      "neutered": "Yes",
+      "dewormed": "Yes",
+      "medical_notes": "Large, gentle giant"
+    },
+    {
+      "id": 10,
+      "name": "Coco",
+      "category": "Birds",
+      "breed": "Cockatiel",
+      "age": "2 years",
+      "gender": "Female",
+      "markings": "Grey with yellow crest",
+      "neutered": "N/A",
+      "dewormed": "N/A",
+      "medical_notes": "Tame, enjoys head scratches"
+    },
+    {
+      "id": 11,
+      "name": "Nemo",
+      "category": "Fish",
+      "breed": "Clownfish",
+      "age": "1 year",
+      "gender": "Male",
+      "markings": "Orange with white stripes",
+      "neutered": "N/A",
+      "dewormed": "N/A",
+      "medical_notes": "Active swimmer, healthy"
+    },
+    {
+      "id": 12,
+      "name": "Buddy",
+      "category": "Dogs",
+      "breed": "Poodle",
+      "age": "2 years",
+      "gender": "Male",
+      "markings": "White curly coat",
+      "neutered": "Yes",
+      "dewormed": "Yes",
+      "medical_notes": "Hypoallergenic, smart"
+    },
+    {
+      "id": 13,
+      "name": "Mittens",
+      "category": "Cats",
+      "breed": "British Shorthair",
+      "age": "1 year",
+      "gender": "Female",
+      "markings": "Grey blue",
+      "neutered": "Yes",
+      "dewormed": "Yes",
+      "medical_notes": "Calm, loves cuddles"
+    },
+    {
+      "id": 14,
+      "name": "Hoppy",
+      "category": "Others",
+      "breed": "Holland Lop Rabbit",
+      "age": "1 year",
+      "gender": "Male",
+      "markings": "Brown and white",
+      "neutered": "Yes",
+      "dewormed": "Yes",
+      "medical_notes": "Friendly, litter trained"
+    },
+    {
+      "id": 15,
+      "name": "Spike",
+      "category": "Others",
+      "breed": "Hedgehog",
+      "age": "6 months",
+      "gender": "Male",
+      "markings": "Brown quills",
+      "neutered": "No",
+      "dewormed": "Yes",
+      "medical_notes": "Nocturnal, quiet"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Dog Food - Chicken & Rice",
+      "category": "Food",
+      "price": 2575.44,
+      "description": "High-quality nutrition for adult dogs. Made with real chicken and brown rice.",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Cat Food - Salmon Delight",
+      "category": "Food",
+      "price": 2183.44,
+      "description": "Delicious salmon-based cat food with essential vitamins and minerals.",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "Bird Seed Mix - Premium Blend",
+      "category": "Food",
+      "price": 895.44,
+      "description": "Nutritious seed blend for all bird species.",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Fish Flakes - Tropical Formula",
+      "category": "Food",
+      "price": 727.44,
+      "description": "Complete nutrition for tropical fish.",
+      "rating": 4.5
+    },
+    {
+      "id": 5,
+      "name": "Flea & Tick Prevention",
+      "category": "Medications",
+      "price": 3135.44,
+      "description": "Monthly treatment for dogs and cats. Prevents fleas, ticks, and heartworm.",
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "name": "Probiotic Supplement",
+      "category": "Medications",
+      "price": 1679.44,
+      "description": "Supports digestive health for dogs and cats.",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "name": "Joint Support Tablets",
+      "category": "Medications",
+      "price": 2407.44,
+      "description": "Helps maintain healthy joints in senior pets.",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "name": "Interactive Puzzle Toy",
+      "category": "Toys",
+      "price": 1399.44,
+      "description": "Keeps dogs mentally stimulated and entertained.",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "name": "Feather Wand for Cats",
+      "category": "Toys",
+      "price": 727.44,
+      "description": "Interactive toy for active play with your cat.",
+      "rating": 4.7
+    },
+    {
+      "id": 10,
+      "name": "Chew Rope Toy",
+      "category": "Toys",
+      "price": 559.44,
+      "description": "Durable rope toy for dogs of all sizes.",
+      "rating": 4.5
+    },
+    {
+      "id": 11,
+      "name": "Catnip Mouse Set (3 pack)",
+      "category": "Toys",
+      "price": 839.44,
+      "description": "Soft plush mice filled with premium catnip.",
+      "rating": 4.8
+    },
+    {
+      "id": 12,
+      "name": "Bird Mirror with Bell",
+      "category": "Toys",
+      "price": 503.44,
+      "description": "Keeps birds entertained for hours.",
+      "rating": 4.4
+    },
+    {
+      "id": 13,
+      "name": "Luxury Pet Bed - Large",
+      "category": "Essentials",
+      "price": 4479.44,
+      "description": "Orthopedic memory foam bed with washable cover.",
+      "rating": 4.9
+    },
+    {
+      "id": 14,
+      "name": "Stainless Steel Food Bowls",
+      "category": "Essentials",
+      "price": 1119.44,
+      "description": "Set of 2 non-slip bowls for food and water.",
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "name": "Adjustable Dog Collar",
+      "category": "Essentials",
+      "price": 951.44,
+      "description": "Comfortable nylon collar with quick-release buckle.",
+      "rating": 4.6
+    },
+    {
+      "id": 16,
+      "name": "Cat Litter Box - Self-Cleaning",
+      "category": "Essentials",
+      "price": 7279.44,
+      "description": "Automatic litter box with odor control.",
+      "rating": 4.8
+    },
+    {
+      "id": 17,
+      "name": "Pet Carrier - Medium",
+      "category": "Essentials",
+      "price": 2799.44,
+      "description": "Airline-approved carrier with ventilation.",
+      "rating": 4.7
+    },
+    {
+      "id": 18,
+      "name": "Grooming Brush Set",
+      "category": "Essentials",
+      "price": 1287.44,
+      "description": "Complete set for all coat types.",
+      "rating": 4.6
+    },
+    {
+      "id": 19,
+      "name": "Aquarium Filter System",
+      "category": "Essentials",
+      "price": 3359.44,
+      "description": "Quiet and efficient filtration for tanks up to 50 gallons.",
+      "rating": 4.8
+    },
+    {
+      "id": 20,
+      "name": "Dental Chews for Dogs",
+      "category": "Medications",
+      "price": 1063.44,
+      "description": "Helps reduce tartar and freshen breath.",
+      "rating": 4.7
+    },
+    {
+      "id": 21,
+      "name": "Premium Puppy Food",
+      "category": "Food",
+      "price": 2967.44,
+      "description": "Complete nutrition for growing puppies.",
+      "rating": 4.9
+    },
+    {
+      "id": 22,
+      "name": "Senior Cat Food",
+      "category": "Food",
+      "price": 2351.44,
+      "description": "Specially formulated for cats 7+ years.",
+      "rating": 4.8
+    },
+    {
+      "id": 23,
+      "name": "Hamster Pellets",
+      "category": "Food",
+      "price": 615.44,
+      "description": "Balanced diet for hamsters and small animals.",
+      "rating": 4.5
+    },
+    {
+      "id": 24,
+      "name": "Scratching Post Tower",
+      "category": "Toys",
+      "price": 5039.44,
+      "description": "Multi-level cat tree with scratching posts and perches.",
+      "rating": 4.9
+    },
+    {
+      "id": 25,
+      "name": "Dog Training Treats",
+      "category": "Food",
+      "price": 783.44,
+      "description": "Low-calorie treats perfect for training sessions.",
+      "rating": 4.7
+    }
+  ],
+  "users": [],
+  "applications": [],
+  "bookings": []
+}
